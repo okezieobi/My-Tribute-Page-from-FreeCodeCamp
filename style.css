@@ -1,0 +1,60 @@
+img {
+  max-width: 100%;
+  display: block;
+  margin: auto;
+  height: auto;
+  border-radius: 0.5em;
+}
+
+#main {
+  font-family: Arial, Helvetica, sans-serif;
+  overflow-x: hidden;
+}
+.canvas {
+  background-color: lightgoldenrodyellow;
+  border-radius: 0.5em;
+  height: auto;
+}
+
+.title {
+  position: relative;
+  left: 42%;
+  padding-top: 1em;
+}
+
+.top-paragraph {
+  position: relative;
+  left: 42.5%;
+}
+
+#img-div {
+  margin: 1em;
+  padding: 1em;
+  background-color: white;
+  border-radius: 0.5em;
+}
+.article-list {
+  position: relative;
+  left: 35%;
+}
+
+.article-paragraph {
+  position: relative;
+  left: 5%;
+}
+
+.last-paragraph {
+  position: relative;
+  left: 45%;
+}
+
+#img-caption {
+  position: relative;
+  padding-top: 0.5em;
+  left: 20%;
+}
+.text-to-wiki {
+  position: relative;
+  left: 20%;
+  padding-bottom: 1em;
+}
